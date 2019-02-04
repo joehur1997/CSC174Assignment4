@@ -20,7 +20,7 @@
 <header>
   <a href="index.php">
     <h1>Tom</h1>
-    <img src="images/cockpit.jpg" alt="Tom in flight">
+    <img src="../images/cockpit.jpg" alt="Tom in flight">
   </a>
 </header>
 

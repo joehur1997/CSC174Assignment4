@@ -5,9 +5,9 @@
 <nav class="menu">
   <ul>
     <li><a href="tomhome.php">Home</a></li>
-    <li><a href="jobs.php">Jobs</a></li>
-    <li><a href="courses.php">Courses</a></li>
-    <li><a href="hobbies.php">Soaring</a></li>
+    <li><a href="tomjobs.php">Jobs</a></li>
+    <li><a href="tomcourses.php">Courses</a></li>
+    <li><a href="tomhobbies.php">Soaring</a></li>
   </ul>
 </nav>
 
