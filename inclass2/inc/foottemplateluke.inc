@@ -4,7 +4,7 @@
 
 <nav class="menu">
   <ul>
-    <li><a href="luke-home.php">Freshman Fall</a></li>
+    <li><a href="lukehome.php">Freshman Fall</a></li>
     <li><a href="freshman-spring.php">Freshman Spring</a></li>
     <li><a href="sophomore.php">Sophomore Year</a></li>
     <li><a href="final-years.php">Junior and Senior Years</a></li>
