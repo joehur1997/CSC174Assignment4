@@ -30,6 +30,7 @@
             <li>Name: Luke Oluoch</li>
             <li>Major: Chemical Engineering</li>
             <li>Class Year: 2019</li>
+        
+        <li>A yearly retrospective about my academic experience at the University of Rochester.</li>
         </ul>
-        <div>A yearly retrospective about my academic experience at the University of Rochester.</div>
 </aside>
