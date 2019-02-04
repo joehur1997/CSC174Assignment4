@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Thomas Hogrefe</title>
+  <title>Timbuktu</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
