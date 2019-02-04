@@ -9,6 +9,7 @@
 
 <nav class="menu">
   <ul>
+    <li><a href="index.php">Home</a></li>
     <li><a href="lukehome.php">Luke</a></li>
     <li><a href="tomhome.php">Tom</a></li>
     <li><a href="mikehome.php">Michael</a></li>
