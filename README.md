@@ -1,7 +1,7 @@
 # Team Timbuktu Assignment 4
 
 ## Domain
-The domain for the content in this website is college students.  Specifically, we learn about three college students named
+The domain for the content in this website is college students.  Specifically, we learn about three college students named Amanda, Michael, and Tom.
 
 ## Ontology
 - Each student has a collection of basic information they use to introduce themselves
