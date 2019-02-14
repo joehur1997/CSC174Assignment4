@@ -3,11 +3,37 @@
 
 <head>
     <title>Amanda O'Donnell | Lab 1: Initial Personal Website</title>
-    <?php include 'inc/head.inc';?>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
+<nav class="menu">
+  <ul>
+    <li><a href="index.php">Home</a></li>
+    <li><a href="amanda.php">Amanda</a></li>
+    <li><a href="tomhome.php">Tom</a></li>
+    <li><a href="mikehome.php">Michael</a></li>
+  </ul>
+</nav>
 
 <body class="container">
-    <?php include 'inc/top.inc';?>
+    <header>
+        <a href="index.php">
+            <h1>Amanda</h1>
+            <img src="images/amanda.jpg" alt="Photo of Amanda">
+        </a>
+    </header>
+    <aside>
+        <ul>
+            <li>Brain & Cognitive Sciences Major</li>
+            <li>Minoring in Computer Science and Psychology</li>
+            <li>Senior at University of Rochester</li>
+        </ul>
+    </aside>
     <main>
         <p>I am a student here at University of Rochester finishing up my major in Brain & Cognitive Sciences as well
             as minors in Computer Science and Psychology. I knew coming into college that I wanted to major in Brain &
@@ -43,8 +69,7 @@
             a summer. This year, I’ve been working as a Peer Advisor for the Brain & Cognitive Sciences department, as
             well as a Teaching Assistant for Machines & Consciousness.</p>
     </main>
-    <?php include 'inc/footnav.inc';?>
-    <?php include ('inc/nav.inc'); ?>
+    <footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 
     <script src="https://code.jquery.com/jquery.js"></script>
     <script src="js/menu-highlighter.js"></script>
