@@ -10,7 +10,7 @@
 <nav class="menu">
   <ul>
     <li><a href="index.php">Home</a></li>
-    <li><a href="amanda.php">Amanda</a></li>
+    <li><a href="amandahome.php">Amanda</a></li>
     <li><a href="tomhome.php">Tom</a></li>
     <li><a href="mikehome.php">Michael</a></li>
   </ul>
@@ -19,7 +19,7 @@
 <body class = "container">
 
 <header>
-  <a href="index.php">
+  <a href="tomhome.php">
     <h1>Tom</h1>
     <img src="images/cockpit.jpg" alt="Tom in flight">
   </a>

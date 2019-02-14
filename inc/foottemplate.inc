@@ -4,10 +4,10 @@
 
 <nav class="menu">
   <ul>
-    <li><a href="index.php">page1</a></li>
-    <li><a href="academics.php">page2</a></li>
-    <li><a href="jobs.php">page3</a></li>
-    <li><a href="misc.php">pag4</a></li>
+    <li><a href="index.php">Introduction</a></li>
+    <li><a href="academics.php">Academics</a></li>
+    <li><a href="jobs.php">Jobs</a></li>
+    <li><a href="misc.php">Hobbies</a></li>
   </ul>
 </nav>
 

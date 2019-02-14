@@ -10,7 +10,7 @@
 <nav class="menu">
   <ul>
     <li><a href="index.php">Home</a></li>
-    <li><a href="amanda.php">Amanda</a></li>
+    <li><a href="amandahome.php">Amanda</a></li>
     <li><a href="tomhome.php">Tom</a></li>
     <li><a href="mikehome.php">Michael</a></li>
   </ul>
@@ -27,7 +27,8 @@
 
 <aside>
   <ul>
-    <li> Michael Anderson </li>
-    <li> BS Environmental Science w/ CS Minor </li>
+    <li> Environmental Science Major </li>
+    <li> Computer Science Minor </li>
+    <li> Kayaker </li>
   </ul>
 </aside>
