@@ -11,8 +11,8 @@
   <ul>
     <li><a href="index.php">Home</a></li>
     <li><a href="amandahome.php">Amanda</a></li>
-    <li><a href="tomhome.php">Tom</a></li>
     <li><a href="mikehome.php">Michael</a></li>
+    <li><a href="tomhome.php">Tom</a></li>
   </ul>
 </nav>
 
@@ -39,21 +39,6 @@
       </ul>
     </aside>
 
-  <div>
-  <a href="tomhome.php">
-    <h1>Tom</h1>
-    <img src="images/cockpit.jpg" alt="Tom in flight">
-  </a>
-</div>
-
-<aside>
-  <ul>
-    <li>Political Science Major</li>
-    <li>Computer Science Minor</li>
-    <li>Glider Pilot</li>
-  </ul>
-</aside>
-
 	<div>
   <a href="mikehome.php">
     <h1>Michael</h1>
@@ -68,6 +53,21 @@
     <li> Kayaker </li>
     </ul>
   </aside>
+
+  <div>
+  <a href="tomhome.php">
+    <h1>Tom</h1>
+    <img src="images/cockpit.jpg" alt="Tom in flight">
+  </a>
+</div>
+
+<aside>
+  <ul>
+    <li>Political Science Major</li>
+    <li>Computer Science Minor</li>
+    <li>Glider Pilot</li>
+  </ul>
+</aside>
 
 	<footer class="leftbox">
   		CSC 174: Advanced Font-end Web Design and Developement 
