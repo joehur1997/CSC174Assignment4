@@ -9,30 +9,23 @@
 	max-width: 960px;
 	padding-top: 20px;
 	display: grid;
-	grid-template-columns: 200px;
+	grid-auto-columns: 1fr;
 }
 
 h2{
 	font-family: 'Amatic SC', sans-serif;
-	margin-bottom: -20px;
+	margin-top: 5px;
+	margin-bottom: 18px;
+	font-size: 45px;
 }
 
-header{
-	grid-column: 1 / 2;
-
-}
 
 aside{ 
 	font-size: 20px;
 	font-style: italic;
-	margin-left: -20px;
-	margin-bottom: -20px;
-	grid-column: 2 / 4; 
-	align-self: end;
-
+	margin-left: -40px;
+	margin-bottom: 60px;
 }
-
-main { grid-column: 1 / 4; }
 
 footer {
 	grid-column: 1 / 2;
@@ -41,9 +34,8 @@ footer {
 }
 
 nav {
-	grid-column: 3 / 4;
+	grid-column: 3;
 }
-
 .is-current {
 	background-color: black;
 	background-clip: padding-box;
@@ -96,6 +88,22 @@ header h1{
 	z-index: 100;
 	top: 60px;
 	left: -80px;
+}
+.welcome {
+	grid-column: 2 / 3;
+	text-align: center;
+}
+.amanda-intro {
+	grid-column: 1 / 2;
+	text-align: center;
+}
+.mike-intro {
+	grid-column: 2 / 3;
+	text-align: center;
+}
+.tom-intro {
+	grid-column: 3 / 4;
+	text-align: center;
 }
 
 
