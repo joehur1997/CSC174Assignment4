@@ -31,7 +31,7 @@
       <h2>Amanda</h2>
       <img src="images/dancing.jpg" alt="Amanda with Fellow Dancers">
     </a>
-    <aside>
+    <aside class="intro-aside">
       <ul>
         <li>Brain & Cognitive Sciences Major</li>
         <li>Computer Science and Psychology Minors</li>
@@ -46,7 +46,7 @@
       <img src="images/kayak.jpg" alt="Picture of Michael">
     </a>
 
-    <aside>
+    <aside class="intro-aside">
       <ul>
         <li> Environmental Science Major </li>
         <li> Computer Science Minor </li>
@@ -61,7 +61,7 @@
       <img src="images/cockpit.jpg" alt="Tom in flight">
     </a>
 
-    <aside>
+    <aside class="intro-aside">
       <ul>
         <li>Political Science Major</li>
         <li>Computer Science Minor</li>
@@ -70,7 +70,7 @@
     </aside>
   </div>
   <footer class="leftbox">
-    CSC 174: Advanced Front-end Web Design and Development
+    CSC 174: Advanced Front-end Web <br> Design and Development
   </footer>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>

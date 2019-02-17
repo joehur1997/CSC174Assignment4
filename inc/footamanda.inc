@@ -1,8 +1,8 @@
 <footer class="leftbox">
-  CSC 174: Advanced Front-end Web Design and Development 
+  CSC 174: Advanced Front-end Web <br> Design and Development 
 </footer>
 
-<nav class="menu">
+<nav class="menu-footer">
   <ul>
     <li><a href="amandahome.php">Introduction</a></li>
     <li><a href="amandaclasses.php">Academics</a></li>

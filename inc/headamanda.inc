@@ -23,7 +23,7 @@
             <img src="images/dancing.jpg" alt="Amanda with Fellow Dancers">
         </a>
     </header>
-    <aside>
+    <aside class="head-aside">
         <ul>
             <li>Brain & Cognitive Sciences Major</li>
             <li>Computer Science and Psychology Minors</li>

@@ -25,7 +25,7 @@
   </a>
 </header>
 
-<aside>
+<aside class="head-aside">
   <ul>
     <li> Environmental Science Major </li>
     <li> Computer Science Minor </li>

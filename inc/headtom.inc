@@ -20,12 +20,12 @@
 
 <header>
   <a href="tomhome.php">
-    <h1>Tom</h1>
+    <h1 class="tom-head">Tom</h1>
     <img src="images/cockpit.jpg" alt="Tom in flight">
   </a>
 </header>
 
-<aside>
+<aside class="head-aside">
   <ul>
     <li>Political Science Major</li>
     <li>Computer Science Minor</li>
