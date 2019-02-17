@@ -24,12 +24,12 @@
       </li>
     </ul>
   </nav>
-  <h2 class="welcome"><a href="index.php">Welcome to Timbuktu</a></h2>
+  <h1 class="welcome"><a href="index.php">Welcome to Timbuktu</a></h1>
 
   <div class="amanda-intro">
     <a href="amandahome.php">
-      <h1>Amanda</h1>
-      <img src="images/amanda.jpg" alt="Photo of Amanda">
+      <h2>Amanda</h2>
+      <img src="images/dancing.jpg" alt="Amanda with Fellow Dancers">
     </a>
     <aside>
       <ul>
@@ -39,10 +39,11 @@
       </ul>
     </aside>
   </div>
+
   <div class="mike-intro">
     <a href="mikehome.php">
-      <h1>Michael</h1>
-      <img src="images/kayak2.jpg" alt="picture of Michael">
+      <h2>Michael</h2>
+      <img src="images/kayak.jpg" alt="Picture of Michael">
     </a>
 
     <aside>
@@ -53,9 +54,10 @@
       </ul>
     </aside>
   </div>
+
   <div class="tom-intro">
     <a href="tomhome.php">
-      <h1>Tom</h1>
+      <h2>Tom</h2>
       <img src="images/cockpit.jpg" alt="Tom in flight">
     </a>
 
@@ -68,7 +70,7 @@
     </aside>
   </div>
   <footer class="leftbox">
-    CSC 174: Advanced Front-end Web Design and Developement
+    CSC 174: Advanced Front-end Web Design and Development
   </footer>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>

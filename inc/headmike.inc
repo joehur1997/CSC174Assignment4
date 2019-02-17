@@ -21,7 +21,7 @@
 <header>
   <a href="mikehome.php">
     <h1>Michael</h1>
-    <img src="images/kayak2.jpg" alt="picture of Michael">
+    <img src="images/kayak.jpg" alt="picture of Michael">
   </a>
 </header>
 

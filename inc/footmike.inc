@@ -1,13 +1,13 @@
 <footer class="leftbox">
-  CSC 174: Advanced Front-end Web Design and Developement 
+  CSC 174: Advanced Front-end Web Design and Development 
 </footer>
 
 <nav class="menu">
   <ul>
     <li><a href="mikehome.php">Introduction</a></li>
-    <li><a href="academics.php">Academics</a></li>
-        <li><a href="jobs.php">Jobs</a></li>
-        <li><a href="misc.php">Hobbies</a></li>
+    <li><a href="mikeclasses.php">Academics</a></li>
+        <li><a href="mikejobs.php">Jobs</a></li>
+        <li><a href="mikehobbies.php">Hobbies</a></li>
   </ul>
 </nav>
 

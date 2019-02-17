@@ -1,4 +1,4 @@
-<?php include "inc/headerT.inc"; ?>
+<?php include "inc/headtom.inc"; ?>
 
 	<main>
 		<h2>
@@ -10,4 +10,4 @@
 		</p>
 	</main>
 	
-<?php include "inc/footerT.inc"; ?>
+<?php include "inc/foottom.inc"; ?>

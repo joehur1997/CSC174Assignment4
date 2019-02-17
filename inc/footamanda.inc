@@ -1,5 +1,5 @@
 <footer class="leftbox">
-  CSC 174: Advanced Front-end Web Design and Developement 
+  CSC 174: Advanced Front-end Web Design and Development 
 </footer>
 
 <nav class="menu">
