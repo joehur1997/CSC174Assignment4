@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
+<body class = "container">
+
 <nav class="menu">
   <ul>
     <li><a href="index.php">Home</a></li>
@@ -15,8 +17,6 @@
     <li><a href="tomhome.php">Tom</a></li>
   </ul>
 </nav>
-
-<body class = "container">
 
 <header>
   <a href="mikehome.php">
