@@ -9,7 +9,7 @@
 <nav class="menu">
   <ul>
     <li><a href="index.php">Home</a></li>
-    <li><a href="amandahome.php">Amanda</a></li>
+    <li class="is-current"><a href="amandahome.php">Amanda</a></li>
     <li><a href="mikehome.php">Michael</a></li>
     <li><a href="tomhome.php">Tom</a></li>
   </ul>
